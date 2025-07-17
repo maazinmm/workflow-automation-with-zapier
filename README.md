@@ -49,6 +49,7 @@ With this setup:
 
 ## Screenshots from Project
 ![1. Workflow in Zapier](<Images/1. workflow in zapier.png>)
+
 The simple workflow
 
 ![2. Google Form Submission](<Images/2. Google Form Submission.png>)
