@@ -46,3 +46,19 @@ With this setup:
 - Using Zapier’s multi-step workflows
 - Mapping dynamic form data into Asana and Slack
 - Real-world business use cases for no-code tools
+
+## Screenshots from Project
+![1. Workflow in Zapier](<Images/1. workflow in zapier.png>)
+The simple workflow
+
+![2. Google Form Submission](<Images/2. Google Form Submission.png>)
+
+A user(Jonathan) submits a Google form to request a feature update
+
+![3. Asana Task Assignment](<Images/3. asana task assignment.png>)
+
+The user's request is sent as a new task with the user's name and the requested feature as the name of the task.
+
+![3. Slack Notification into the `#test-lab` Channel](<Images/3. slack notification into the test-lab channel.png>)
+
+At the same time, the slack channel of the product managers is also updated with the user's request details.
